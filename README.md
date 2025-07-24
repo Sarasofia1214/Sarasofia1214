@@ -48,6 +48,56 @@
 
 </div>
 </br>
+
+---
+
+<h3 align="center"> Proyectos Destacados</h3>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/sarasofia1214/FormulaUno" target="_blank">
+          <img src="https://img.shields.io/badge/FormulaUno-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="FormulaUno Badge" />
+        </a>
+        <p>Gestión de circuitos de Fórmula 1 usando JavaScript y Fetch API para operaciones CRUD dinámicas.</p>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/sarasofia1214/Portafolio_DiazSara" target="_blank">
+          <img src="https://img.shields.io/badge/Portafolio_DiazSara-CSS-purple?style=for-the-badge&logo=css3&logoColor=white" alt="Portafolio Badge" />
+        </a>
+        <p>Portafolio personal con diseño responsivo y estilos personalizados.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/sarasofia1214/KarioMedia" target="_blank">
+          <img src="https://img.shields.io/badge/KarioMedia-CSS-purple?style=for-the-badge&logo=css3&logoColor=white" alt="KarioMedia Badge" />
+        </a>
+        <p>Diseño web con enfoque en maquetación visual atractiva.</p>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/sarasofia1214/Aula_Virtual" target="_blank">
+          <img src="https://img.shields.io/badge/Aula_Virtual-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Aula Virtual Badge" />
+        </a>
+        <p>Plataforma educativa con lógica en Python.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/sarasofia1214/Sarasofia1214" target="_blank">
+          <img src="https://img.shields.io/badge/Sarasofia1214-Proyectos%20Varios-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Sarasofia1214 Badge" />
+        </a>
+        <p>Repositorio principal.</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+
 <div align="center">
   <table>
     <tr>
